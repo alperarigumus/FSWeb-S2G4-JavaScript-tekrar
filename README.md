@@ -21,9 +21,10 @@ VSCode ve Komut Satırını Kullanma:
 
 1. Bu repo'yu fork'layın
 2. Frok'ladığınız repo'yu bilgisayarınızda clone'layın
-3. LÜTFEN BRANCH OLUŞTURMAYINIZ! Bu projede main branch'ine push'layacaksın
-4. Projenizi VS Code ile açın. Terminaldeki dizinin içeriği `ls` komutu ile kontrol edebilirsiniz. `package.json` olan dizinde olmalıyız.
-5. VS Code'da terminali açın ve `npm install` yazın ve çalıştırın
+3. 
+4. LÜTFEN BRANCH OLUŞTURMAYINIZ! Bu projede main branch'ine push'layacaksın
+5. Projenizi VS Code ile açın. Terminaldeki dizinin içeriği `ls` komutu ile kontrol edebilirsiniz. `package.json` olan dizinde olmalıyız.
+6. VS Code'da terminali açın ve `npm install` yazın ve çalıştırın
 
 ### Görev 2: Geliştirme Ortamı Çalıştırma
 
